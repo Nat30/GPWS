@@ -1,0 +1,15 @@
+# v1 目录名称备份（2026-11-16）
+# 「模拟警示音」第一版 10 条目录的中英文名称，音频源为旧 "GPWS Sound/" 目录。
+# 若需回退宫格名称，按此表恢复 app_catalog.c 即可。
+#
+# idx  中文名      英文              音频源(旧文件名)                       时长ms
+# 0    拉升警告    PULL UP           WarningPullUp.wav                    3376
+# 1    近地警告    TERRAIN           Terrain.wav                          3000
+# 2    火警警报    FIRE              BOEING 777 Alarms, Alerts.wav        3000
+# 3    失速警告    STALL             Airbus STALL!.wav                    7900
+# 4    风切变      WINDSHEAR         WindShear.wav                        2500
+# 5    冲突告警    TRAFFIC           Traffic.wav                          3100
+# 6    地形拉起    PULL UP AHEAD     TERRAIN TERRAIN PULL UP.wav          1700
+# 7    下沉率警告  SINK RATE         SinkRate.wav                         1400
+# 8    减速提醒    RETARD            Retard, retard, retard.wav           5400
+# 9    主告诫      MASTER CAUTION    MasterCaution.wav                    4088

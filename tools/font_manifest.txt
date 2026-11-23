@@ -1,0 +1,9 @@
+# LVGL font manifest for the warning-sounds app.
+# Format: <name> <pixel size> <regular|bold> <charset spec>
+# Charset spec: comma separated keywords cjk | ascii | digits, or +<literal text>.
+# Regenerate with: python3 tools/gen_font.py
+app_font_15_bold 15 bold cjk,digits,+/
+app_font_10_bold 10 bold cjk,digits,+:
+app_font_12 12 regular cjk,ascii
+app_font_10 10 regular ascii
+app_font_6_bold 6 bold digits
